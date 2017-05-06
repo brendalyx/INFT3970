@@ -1,0 +1,42 @@
+
+a rent anything system (C2C)
+we provide a platform for people to list the items and service for rent. 
+this platform allows users to view the schedule for the items without having to chat with the renter
+this platform 
+items should be their own. 
+users are supposed to arrange their own collection and return point for the items using the chat function.
+users are required to pay in full amount 
+
+
+(renters can set a deposit on items) 
+(set your own deposit that you think will cover it)
+deposit must be returned by 
+
+
+scheduling
+search item results shown in interactive map 
+chatting
+review of item (condition of item)
+reputation system for renter and rentee (happy face or sad face)
+
+
+self-collect:
+	-self-collect you chat and decide where to collect yourself
+sign in
+	-members: can rent from people and post things (or service) to rent
+	-administrator
+
+	
+business rule:
+user can set their own rental price. percentage of this total price for rental is taken as deposit
+despoit must be paid on top of total rental price.
+the person renting is responsible 
+eg. 
+item x is a ipad 1 (200)
+item x is $10 per day
+deposit is 10% Of total price
+user a rents it for 20 days
+user a has to pay =
+total price: $400
+deposit: 10% of $400 = $40
+= $44
